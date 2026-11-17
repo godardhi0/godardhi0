@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm YOUR_NAME 👋</h1>
+<h1 align="center">Hi there:)</h1>
 <h3 align="center">Full-Stack & Embedded Systems Developer</h3>
 
 <p align="center">
@@ -6,21 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/godardhi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://godardhi0.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on: **YOUR_CURRENT_PROJECT**
 - 🌱 Currently learning: **YOUR_LEARNING_TOPIC**
-- 🤝 Open to collaborating on: **backend APIs, embedded projects, open source**
-- 💬 Ask me about: **C#/.NET, REST APIs, C/C++ firmware, PCB design**
-- 📍 Based in: **YOUR_LOCATION**
-
 ---
 
 ## 🛠️ Technical Skills
@@ -55,32 +49,6 @@
 ### Hardware & Electronics Design
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Eagle](https://img.shields.io/badge/Autodesk_Eagle-F58025?style=for-the-badge&logo=autodesk&logoColor=white)
-
-### Systems & Networking
-- **System administration:** Windows and Linux
-- **Networking:** TCP/IP, DNS, DHCP, NAT
-- **Cloud:** fundamentals
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [**Project One**](https://github.com/YOUR_USERNAME/project-one) | Short description of what it does | `C#` `ASP.NET` `SQL` |
-| [**Project Two**](https://github.com/YOUR_USERNAME/project-two) | Short description of what it does | `C` `CMake` `Embedded` |
-| [**Project Three**](https://github.com/YOUR_USERNAME/project-three) | Short description of what it does | `Node.js` `JavaScript` |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
-
----
 
 ## 📫 Get in Touch
 
