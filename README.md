@@ -11,9 +11,6 @@
 </p>
 
 - 🌱 Currently learning: **Programable circuits (FPGAs)**
----
-
-## 📫 Get in Touch
 
 Feel free to reach out about projects, collaboration, or just to talk tech.
 
